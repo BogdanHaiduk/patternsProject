@@ -1,7 +1,5 @@
 package com.project.entity;
 
-import com.project.factory.Developer;
-
 public class PhpDeveloper implements Developer {
     private static final String PHP_DEVELOPER = "Php " + developer;
 

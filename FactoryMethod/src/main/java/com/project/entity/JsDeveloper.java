@@ -1,7 +1,5 @@
 package com.project.entity;
 
-import com.project.factory.Developer;
-
 public class JsDeveloper implements Developer {
     private static final String JS_DEVELOPER = "JS " + developer;
 

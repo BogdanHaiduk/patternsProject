@@ -1,5 +1,6 @@
 package com.project.factory;
 
+import com.project.entity.Developer;
 import com.project.entity.JavaDeveloper;
 
 public class FactoryJavaDeveloper implements FactoryDeveloper {

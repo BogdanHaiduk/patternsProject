@@ -1,5 +1,6 @@
 package com.project;
 
+import com.project.entity.Developer;
 import com.project.entity.Developers;
 import com.project.factory.*;
 

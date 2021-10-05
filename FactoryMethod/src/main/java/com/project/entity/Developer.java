@@ -1,4 +1,4 @@
-package com.project.factory;
+package com.project.entity;
 
 public interface Developer {
 

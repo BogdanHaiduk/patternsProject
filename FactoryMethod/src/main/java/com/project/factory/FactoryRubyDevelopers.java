@@ -1,5 +1,6 @@
 package com.project.factory;
 
+import com.project.entity.Developer;
 import com.project.entity.RubyDeveloper;
 
 public class FactoryRubyDevelopers implements FactoryDeveloper {

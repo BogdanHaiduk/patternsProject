@@ -1,7 +1,5 @@
 package com.project.entity;
 
-import com.project.factory.Developer;
-
 public class RubyDeveloper implements Developer {
     private static final String RUBY_DEVELOPER = "Ruby " + developer;
 
