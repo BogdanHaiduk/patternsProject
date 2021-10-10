@@ -4,7 +4,8 @@ import com.project.entity.Developer;
 import com.project.entity.Developers;
 import com.project.factory.*;
 
-public class MainClass {
+public class
+MainClass {
 
     public static void main(String[] args) {
         for (Developers dev: Developers.values()){
