@@ -14,10 +14,20 @@
         <maven.compiler.source>1.8</maven.compiler.source>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.22</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
+
     <modules>
         <module>FactoryMethod</module>
-        <module>Flyweight</module>
+        <module>AbstractFactory</module>
         <module>Singleton</module>
+        <module>Builder</module>
     </modules>
 
 
